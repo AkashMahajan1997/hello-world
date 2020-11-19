@@ -1,1 +1,1 @@
-# hello-world by akash
+# hello-world
